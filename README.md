@@ -5,8 +5,8 @@ A LAMP stack installer for Ubuntu 24.04 LTS, in one server
 ## Stack
 - **Linux** - Ubuntu 24.04 LTS
 - **Nginx** - Web Server
-- **MySQL** Database server
-- ** PHP 8.3** - APplication language
+- **MySQL** - Database server
+- **PHP 8.3** - Application language
 
 ## Limitations
 - HTTP only
