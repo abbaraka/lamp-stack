@@ -1,0 +1,24 @@
+# Environment files
+.env
+*.env
+
+# MySQL credentials
+my.cnf
+.my.cnf
+
+# SSL certificates and keys
+*.pem
+*.key
+*.crt
+*.csr
+
+# Log Files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup Files
+*.bak
+*.backup
